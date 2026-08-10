@@ -8,3 +8,4 @@ const dbConfig = {
 console.log('Database configuration loaded successfully');
 
 module.exports = dbConfig;
+
